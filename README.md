@@ -1,7 +1,10 @@
- <h1>Chatbot Project</h1>
+ <h1> Chatbot Project with Python </h1>
 
 <img width="929" alt="chatbot_ai" src="https://github.com/eriksensousa/Chatbot-Project/assets/126014537/ad80a0d2-2846-40ef-819d-a4ff6cf39ab5">
 
+<h3> INTRODUCTION </h3>
+
+Chatbots are computer programs that can interact with users in natural language. They are used in a variety of applications, including customer service, e-commerce, and personal assistants. In this project, we will explore how to create a chatbot using the Python programming language.
 
 <h3>OBJECTIVES</h3>  
 
@@ -13,11 +16,16 @@
 >
 > So, we can build an industry-specific chatbot by training it with relevant data.
 
+<h3> BACKGROUND </h3>
+
+There are several libraries and frameworks available in Python that can help you build a chatbot. 
+
+For example, ChatterBot is a popular open-source solution for building a chatbot in Python, which combines language corpora, text processing, machine learning algorithms, and data storage and retrieval to allow you to build flexible chatbots. You can build an industry-specific chatbot by training it with relevant data.
 
 ![chatbot-conversation-example-diagram](https://github.com/eriksensousa/Chatbot-Project/assets/126014537/0f98aaf4-040d-4f9c-85bb-6dc973f41078)
 
 
-<h3>FOLLOW UP</h3>
+<h3> METHODOLOGY </h3>
 
 To create a chatbot using Python, you can follow these steps:
 
@@ -30,6 +38,16 @@ To create a chatbot using Python, you can follow these steps:
 - Export and clean conversational data to train the chatbot.
 
 - Retrain the chatbot with industry-specific data.
+
+<h3> RESULTS </h3>
+
+By following these steps, you will be able to create a fully functional chatbot using Python. You can use this project to learn more about natural language processing, machine learning algorithms, and data storage and retrieval in Python.
+
+<h3> CONCLUSION </h3>
+
+In conclusion, creating a chatbot using Python is an interesting and challenging project that can help you improve your programming skills. 
+
+By using libraries like ChatterBot and following the steps outlined above, you can easily create a working chatbot in Python.
 
 <h3>REFERENCES</h3>
 
