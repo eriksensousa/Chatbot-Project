@@ -39,8 +39,13 @@ Here are the book that might be helpful for chatbot development using Python:
 
 <h3>“Building Chatbots with Python: Using Natural Language Processing and Machine Learning” by Sumit Raj</h3>
 
+
+
 1. This book covers different approaches to chatbot development, including key points on chatbot integration and deployment. It also employs machine learning to configure your chatbots.
 2. And this book is available on Google Books and provides an introduction to chatbots, their architecture, and natural language processing with the natural language toolkit (NLTK) for building a custom language processing platform for your chatbot.
+
+   
+![BuildingChatbotsWithPython](https://github.com/eriksensousa/Chatbot-Project/assets/126014537/e104a08a-7939-4aec-b2f8-692495320d2e)
 
 
 Author: Eriksen Sousa
