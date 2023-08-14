@@ -20,7 +20,9 @@ Chatbots are computer programs that can interact with users in natural language.
 
 There are several libraries and frameworks available in Python that can help you build a chatbot. 
 
-For example, ChatterBot is a popular open-source solution for building a chatbot in Python, which combines language corpora, text processing, machine learning algorithms, and data storage and retrieval to allow you to build flexible chatbots. You can build an industry-specific chatbot by training it with relevant data.
+For example, ChatterBot is a popular open-source solution for building a chatbot in Python, which combines language corpora, text processing, machine learning algorithms, and data storage and retrieval to allow you to build flexible chatbots. 
+
+You can build an industry-specific chatbot by training it with relevant data.
 
 ![chatbot-conversation-example-diagram](https://github.com/eriksensousa/Chatbot-Project/assets/126014537/0f98aaf4-040d-4f9c-85bb-6dc973f41078)
 
